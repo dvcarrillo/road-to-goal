@@ -1,5 +1,4 @@
-![Logo of Road To Goal]
-(https://raw.githubusercontent.com/dvcarrillo/road-to-goal/master/RTGlogo.png)
+![Logo of Road To Goal](https://raw.githubusercontent.com/dvcarrillo/road-to-goal/master/RTGlogo.png)
 
 ## What is Road To Goal?
 Road To Goal is a competitive 3D game made to be played by two players in one keyboard.
