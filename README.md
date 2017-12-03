@@ -14,4 +14,4 @@ These pickups can affect the course of the game, changing player's attributes.
 * Another player to play with!
 
 ## Downloads
-See the (*Releases*)[https://github.com/dvcarrillo/road-to-goal/releases] page.
+See the [*Releases*](https://github.com/dvcarrillo/road-to-goal/releases) page.
