@@ -6,8 +6,6 @@ Each player controls a car and has to goal in his opponent's soccer gate.
 Both players can collect and use pickups, that will be found in the field.
 These pickups can affect the course of the game, changing player's attributes.
 
-Road To Goal has been completely developed in Unity for the course Fundamentals of Game Development at the Lappeenranta University of Technology (Finland).
-
 ## What do I need?
 * A computer with Windows or macOS.
 * A keyboard.
@@ -15,3 +13,5 @@ Road To Goal has been completely developed in Unity for the course Fundamentals 
 
 ## Downloads
 See the *Releases* page.
+
+*Road To Goal has been completely developed in Unity for the course Fundamentals of Game Development at the Lappeenranta University of Technology (Finland).*
